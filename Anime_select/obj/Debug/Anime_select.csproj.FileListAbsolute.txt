@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\C#\dice\Anime_select\bin\Debug\Anime_select.exe.config
+C:\Users\Owner\Desktop\C#\dice\Anime_select\bin\Debug\Anime_select.exe
+C:\Users\Owner\Desktop\C#\dice\Anime_select\bin\Debug\Anime_select.pdb
+C:\Users\Owner\Desktop\C#\dice\Anime_select\obj\Debug\Anime_select.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C#\dice\Anime_select\obj\Debug\Anime_select.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\dice\Anime_select\obj\Debug\Anime_select.exe
+C:\Users\Owner\Desktop\C#\dice\Anime_select\obj\Debug\Anime_select.pdb

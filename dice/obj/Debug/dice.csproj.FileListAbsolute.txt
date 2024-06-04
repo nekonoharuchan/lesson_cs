@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\dice\dice\bin\Debug\dice.exe.config
+C:\Users\Owner\source\repos\dice\dice\bin\Debug\dice.exe
+C:\Users\Owner\source\repos\dice\dice\bin\Debug\dice.pdb
+C:\Users\Owner\source\repos\dice\dice\obj\Debug\dice.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\dice\dice\obj\Debug\dice.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\dice\dice\obj\Debug\dice.exe
+C:\Users\Owner\source\repos\dice\dice\obj\Debug\dice.pdb
+C:\Users\Owner\Desktop\C#\dice\dice\bin\Debug\dice.exe.config
+C:\Users\Owner\Desktop\C#\dice\dice\bin\Debug\dice.exe
+C:\Users\Owner\Desktop\C#\dice\dice\bin\Debug\dice.pdb
+C:\Users\Owner\Desktop\C#\dice\dice\obj\Debug\dice.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C#\dice\dice\obj\Debug\dice.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C#\dice\dice\obj\Debug\dice.exe
+C:\Users\Owner\Desktop\C#\dice\dice\obj\Debug\dice.pdb

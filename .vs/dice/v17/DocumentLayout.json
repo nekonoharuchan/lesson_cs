@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\C#\\dice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E888F5-0FAC-4628-9D77-81419365F84F}|select\\select.csproj|c:\\users\\owner\\desktop\\c#\\dice\\select\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E888F5-0FAC-4628-9D77-81419365F84F}|select\\select.csproj|solutionrelative:select\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0171BEAF-38DA-45A9-95AB-8B7E49FA9EB4}|dice\\dice.csproj|C:\\Users\\Owner\\Desktop\\C#\\dice\\dice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0171BEAF-38DA-45A9-95AB-8B7E49FA9EB4}|dice\\dice.csproj|solutionrelative:dice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84656C3-E3C9-42E1-B65D-EEE953610F3F}|dice2\\dice2.csproj|C:\\Users\\Owner\\Desktop\\C#\\dice\\dice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84656C3-E3C9-42E1-B65D-EEE953610F3F}|dice2\\dice2.csproj|solutionrelative:dice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\C#\\dice\\select\\Program.cs",
+              "RelativeDocumentMoniker": "select\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\C#\\dice\\select\\Program.cs",
+              "RelativeToolTip": "select\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:36:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\C#\\dice\\dice2\\Program.cs",
+              "RelativeDocumentMoniker": "dice2\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\C#\\dice\\dice2\\Program.cs",
+              "RelativeToolTip": "dice2\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvy8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:23:15.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\C#\\dice\\dice\\Program.cs",
+              "RelativeDocumentMoniker": "dice\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\C#\\dice\\dice\\Program.cs",
+              "RelativeToolTip": "dice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:10:18.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
